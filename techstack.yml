@@ -1,7 +1,8 @@
 repo_name: ashisha7i/java-prep
 report_id: 3e082ec7a8aa24510e67972dfe462d89
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-10T00:59:39+00:00'
+timestamp: '2024-01-05T09:04:11+00:00'
 requested_by: ashisha7i
 provider: github
 branch: main
@@ -15,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ashisha7i/java-prep
   detection_source: Repo Metadata
